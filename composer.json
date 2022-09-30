@@ -1,0 +1,13 @@
+{
+    "name": "sjl/fsdk",
+    "description": "test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sjl",
+            "email": "sjl@qq.com"
+        }
+    ],
+    "require": {}
+}
